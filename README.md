@@ -1,5 +1,7 @@
 # contractor-injury-claims
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23746798.svg)](https://doi.org/10.5281/zenodo.23746798)
+
 Claims filed under the U.S. **Defense Base Act**, the law that covers injured or killed civilian contractors working on U.S. government contracts overseas. The data comes from the U.S. Department of Labor and is organized by country and fiscal year, **FY2009 to FY2024**, plus the Labor Department's cumulative table for **2001 to 2024**.
 
 ![Claims per year](figures/dba_claims_per_year.png)
@@ -67,4 +69,9 @@ Sources are listed in [`data/README.md`](data/README.md). Code: MIT (see [`LICEN
 
 ## Cite
 
-See [`CITATION.cff`](CITATION.cff).
+Azom, Kazi Affnann (2026). *contractor-injury-claims: U.S. Defense Base Act claims by country, FY2009-FY2024* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23746799
+
+- This version (v1.0.0): [10.5281/zenodo.23746799](https://doi.org/10.5281/zenodo.23746799)
+- All versions (always points to the latest): [10.5281/zenodo.23746798](https://doi.org/10.5281/zenodo.23746798)
+
+See also [`CITATION.cff`](CITATION.cff).

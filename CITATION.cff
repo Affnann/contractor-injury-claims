@@ -6,6 +6,11 @@ authors:
     given-names: "Kazi Affnann"
     orcid: "https://orcid.org/0009-0001-5998-7642"
 version: "1.0.0"
+doi: "10.5281/zenodo.23746799"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23746798"
+    description: "Concept DOI for all versions"
 date-released: "2026-10-29"
 repository-code: "https://github.com/Affnann/contractor-injury-claims"
 license: MIT
