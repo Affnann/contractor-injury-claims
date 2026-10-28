@@ -6,6 +6,12 @@ Claims filed under the U.S. **Defense Base Act**, the law that covers injured or
 
 ![Claims per year](figures/dba_claims_per_year.png)
 
+## What this is and why it matters
+
+Civilian contractors do much of the work behind U.S. government operations abroad, and some of them are injured or killed. Their families and employers file compensation claims under the Defense Base Act, and the U.S. Department of Labor counts these claims by country and year. Official casualty figures usually cover only soldiers, so these tables are one of the few public records of harm to civilian contractors: more than 235,000 claims since 2001, including about 4,200 death claims.
+
+The tables were spread across many separate web pages and spreadsheets, with country names spelled differently from year to year. This repository brings them into one checked dataset and states clearly what the numbers do and do not show. It can be used to see where and when contractor work has been most dangerous, to follow how risk changed as wars ended, to inform the cost of insuring overseas contract work, and to check public claims about contractor injuries and deaths.
+
 ## Read this first
 
 - **These are claims, not casualties.** Each number is a new case opened by the Labor Department in that year. The Labor Department states that these numbers are not official casualty statistics, and do not show the number of injuries or deaths that happened in the period.
