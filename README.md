@@ -1,5 +1,70 @@
 # contractor-injury-claims
 
-Claims filed under the U.S. Defense Base Act for injured or killed civilian contractors working on U.S. government contracts overseas, organized by country and year.
+Claims filed under the U.S. **Defense Base Act**, the law that covers injured or killed civilian contractors working on U.S. government contracts overseas. The data comes from the U.S. Department of Labor and is organized by country and fiscal year, **FY2009 to FY2024**, plus the Labor Department's cumulative table for **2001 to 2024**.
 
-**Status:** work in progress. The data has not been added yet.
+![Claims per year](figures/dba_claims_per_year.png)
+
+## Read this first
+
+- **These are claims, not casualties.** Each number is a new case opened by the Labor Department in that year. The Labor Department states that these numbers are not official casualty statistics, and do not show the number of injuries or deaths that happened in the period.
+- **The year is when the case was opened**, not when the injury happened. For example, Afghanistan still has thousands of claims in FY2024, after the U.S. withdrawal in 2021.
+- **The country is where the injury happened**, not the worker's nationality.
+- **A blank cell is not zero.** The Labor Department leaves small numbers out of its tables. Blank cells are kept blank, so adding up countries gives less than the printed year total. The yearly totals file has the official totals.
+- **"Nation Pending"** means the country was not yet recorded when the table was made.
+
+## The data
+
+| File | Contents |
+|---|---|
+| [`data/clean/dba_claims_by_country_year.csv`](data/clean/dba_claims_by_country_year.csv) | One row per country per year (1,433 rows) |
+| [`data/clean/dba_claims_year_totals.csv`](data/clean/dba_claims_year_totals.csv) | The total printed for each year, and for 2001-2024 |
+| [`data/clean/dba_claims_cumulative_2001_2024.csv`](data/clean/dba_claims_cumulative_2001_2024.csv) | The cumulative table, one row per country |
+
+| Column | Meaning |
+|---|---|
+| `fiscal_year` | U.S. fiscal year the case was opened (starts 1 October) |
+| `country` | Standard country name (spellings vary between years in the source) |
+| `country_in_source` | The name exactly as printed |
+| `no_lost_time` | Cases with no time lost from work |
+| `lost_time_3_days_or_less` | Lost time of 3 days or less |
+| `lost_time_4_days_or_more` | Lost time of 4 days or more |
+| `death` | Death cases |
+| `salary_continuation` | Cases where the employer may be continuing pay |
+| `other` | Other cases |
+| `total` | All cases |
+| `source_url` | The Labor Department page or file the row comes from |
+
+Case types follow the Labor Department's definitions. They show what compensation *may* be payable, not what was paid.
+
+## Things to know before comparing years
+
+- FY2009-FY2020 come from web tables; FY2021-FY2024 come from spreadsheets. Both list the same case types under slightly different names (for example `LTO` and `SUM(LTO3)`), which are matched here.
+- The tables were published once a year and are not revised later. The cumulative 2001-2024 table is newer, so the yearly numbers do not always add up to it. For example, "Nation Pending" is 56 lower in the cumulative table, because some cases were later assigned a country.
+- Total claims rose by 80% in FY2020 and 77% in FY2024. Both match the totals printed by the Labor Department; this repository does not test why.
+
+## How the numbers were checked
+
+Run by [`code/02_check_claims.py`](code/02_check_claims.py); results in [`data/clean/check_report.md`](data/clean/check_report.md).
+
+1. The tables were copied cell by cell from the Labor Department's pages and spreadsheets, and the copy was verified with a checksum.
+2. Each year's countries were compared with the total printed for that year. They match exactly for FY2023 and FY2024; in other years the gap equals the claims in cells the source leaves blank.
+3. Each row's case types were checked against its total.
+4. The yearly tables were compared with the cumulative 2001-2024 table.
+5. Large year-to-year changes were listed for review.
+
+## Reproduce it
+
+```
+pip install -r requirements.txt
+python code/01_build_claims.py
+python code/02_check_claims.py
+python code/03_make_figure.py
+```
+
+## Sources and license
+
+Sources are listed in [`data/README.md`](data/README.md). Code: MIT (see [`LICENSE`](LICENSE)). The clean dataset: CC BY 4.0. The source tables are U.S. government works.
+
+## Cite
+
+See [`CITATION.cff`](CITATION.cff).

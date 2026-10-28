@@ -1,9 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this data or code, please cite it as below."
-title: "contractor-injury-claims"
+title: "contractor-injury-claims: U.S. Defense Base Act claims by country, FY2009-FY2024"
 authors:
   - family-names: "Azom"
     given-names: "Kazi Affnann"
     orcid: "https://orcid.org/0009-0001-5998-7642"
+version: "1.0.0"
+date-released: "2026-10-29"
 repository-code: "https://github.com/Affnann/contractor-injury-claims"
 license: MIT
+keywords:
+  - Defense Base Act
+  - defense contractors
+  - private military and security companies
+  - workplace injuries

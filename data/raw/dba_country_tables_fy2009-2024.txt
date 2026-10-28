@@ -1,0 +1,1599 @@
+#SRC|FY2009|/agencies/owcp/dlhwc/dbaallnation(fy2009)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+IRAQ|3605|741|2549|176|4||7075
+AFGHANISTAN|571|226|621|104|2||1524
+KUWAIT|336|229|383|9|1||958
+UNITED STATES|49|30|673|2|||754
+Nation Pending|345|36|342|26|||749
+BOSNIA AND HERZEGOVINA|18|7|139|1|||165
+UNITED ARAB EMIRATES|59|14|51||||124
+MARSHALL ISLANDS|55|4|53||||112
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|7|3|68|1|||79
+GERMANY|23|4|34||||61
+QATAR|8|7|43||||58
+PUERTO RICO|16||40||||56
+JORDAN|42||8||||50
+COLOMBIA|39|5|5||||49
+KOREA, REPUBLIC OF|13|3|11|1|||28
+TURKEY|17||4||||21
+PAKISTAN|6|1|9|3|||19
+JAPAN|10|2|4||||16
+UNITED KINGDOM|4||12||||16
+INDIA|2||13||||15
+IRELAND|13||2||||15
+CUBA|1|2|10|1|||14
+DJIBOUTI|3||11||||14
+HONDURAS|4||8|1|||13
+ITALY|6|1|4||||11
+SOUTH AFRICA|2||6|1|||9
+SUDAN|1||8||||9
+KENYA|1||7||||8
+CROATIA|||7||||7
+KYRGYZSTAN|1||6||||7
+PHILIPPINES||1|6||||7
+UZBEKISTAN|||7||||7
+CHINA||2|3|1|||
+HAITI|2||4||||
+INDONESIA||1|4|1|||
+RUSSIAN FEDERATION|2||4||||
+THAILAND|1||4|1|||
+GEORGIA|||5||||
+GUAM|2|1|2||||
+In-Flight|2||3||||
+ISRAEL|1|3|1||||
+MEXICO|||5||||
+SOMALIA|3||1|1|||
+CAMBODIA|1|1|2||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|4||||||
+Kosovo|2||2||||
+LIBERIA|1|1|2||||
+PERU|1||3||||
+SERBIA AND MONTENEGRO|||4||||
+BAHAMAS|1|1|1||||
+BELGIUM|2|||1|||
+SPAIN|2||1||||
+UGANDA|1||1|1|||
+VIET NAM|3||||||
+ALBANIA|||2||||
+ANTIGUA AND BARBUDA|1||1||||
+AUSTRALIA|||2||||
+BAHRAIN|1||1||||
+BRAZIL|1||1||||
+BULGARIA|||2||||
+CANADA|||2||||
+CHAD|||2||||
+EGYPT|||2||||
+ICELAND|2||||||
+IRAN, ISLAMIC REPUBLIC OF|2||||||
+KAZAKHSTAN|||2||||
+LATVIA|1||1||||
+NETHERLANDS ANTILLES|||2||||
+NIGERIA|1||1||||
+OMAN|2||||||
+SAUDI ARABIA|||1|1|||
+SINGAPORE|2||||||
+SRI LANKA|||1|1|||
+Acension Island, BRITISH|||1||||
+ANTARCTICA|||1||||
+BANGLADESH|1||||||
+BURKINA FASO|1||||||
+CYPRUS|||1||||
+FIJI||1|||||
+FRANCE|1||||||
+GABON|||1||||
+GHANA|1||||||
+GUATEMALA|||1||||
+HUNGARY|||1||||
+KIRIBATI|||1||||
+MALAWI|||1||||
+MALAYSIA|1||||||
+MALI||||1|||
+MALTA|||1||||
+MONGOLIA|||1||||
+NEPAL|1||||||
+NETHERLANDS|||1||||
+NORTHERN MARIANA ISLANDS|1||||||
+PALESTINIAN TERRITORY, OCCUPIED|1||||||
+PANAMA|||1||||
+POLAND|1||||||
+PORTUGAL|1||||||
+SIERRA LEONE|||1||||
+SWEDEN||||1|||
+TAIWAN|||1||||
+UKRAINE|||1||||
+VIRGIN ISLANDS, U.S.|||1||||
+YEMEN|||1||||
+Grand Total: 103|5311|1327|5236|336|7|0|12217
+#SRC|FY2010|/agencies/owcp/dlhwc/dbaallnation(fy2010)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+IRAQ|3340|825|3159|69|1||7394
+AFGHANISTAN|706|248|1809|357|2||3122
+Nation Pending|693|285|653|53|||1684
+KUWAIT|327|163|412|11|||913
+UNITED STATES|52|11|420|3|||486
+In-FlighT|95|5|47||||147
+MARSHALL ISLANDS|41|6|35||||82
+UNITED ARAB EMIRATES|20|13|47|1|||81
+GERMANY|40|3|30|1|||74
+QATAR|21|9|34||||64
+KosovO|12|1|43||||56
+PUERTO RICO|18|1|24||||43
+COLOMBIA|26|4|10||||40
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|1||23||||24
+HONDURAS|14||7|2|||23
+BOSNIA AND HERZEGOVINA|||20|2|||22
+JAPAN|8|2|9|2|1||22
+SUDAN|6|1|13|1|||21
+KOREA, REPUBLIC OF|12|4|2|1|||19
+DJIBOUTI|3||14||||17
+HAITI|4||12|1|||17
+SAUDI ARABIA|7|1|9||||17
+UNITED KINGDOM|5||10||||15
+BAHAMAS|3|2|9||||14
+OMAN|7||7||||14
+PAKISTAN|6|1|5|2|||14
+JORDAN|8|1|3||||12
+PHILIPPINES|2|2|7||||11
+ISRAEL|4||6||||10
+THAILAND|5||4|1|||10
+CUBA|2|2|5||||9
+RUSSIAN FEDERATION|7||2||||9
+BAHRAIN|4||3||||7
+ITALY|3|1|3||||7
+LIBERIA|2|2|2|1|||7
+Acension Island, BRITISH|2|1|3||||
+TAIWAN|5||1||||
+TURKEY|4|||2|||
+VIET NAM|5||1||||
+IRELAND|2||3||||
+KYRGYZSTAN|2||2|1|||
+SOUTH AFRICA|1||4||||
+BURKINA FASO|1||3||||
+CAMBODIA|1||3||||
+INDIA|||4||||
+KENYA|1||3||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|2|1|1||||
+ROMANIA|1||3||||
+UGANDA|2||2||||
+ANTARCTICA|||3||||
+ANTIGUA AND BARBUDA||1|2||||
+AUSTRALIA|2||1||||
+CHINA||1|1|1|||
+CROATIA|||3||||
+DENMARK|3||||||
+EGYPT|1||2||||
+GEORGIA|1||2||||
+GHANA|2||1||||
+GREECE|2||1||||
+GUATEMALA|3||||||
+GUINEA|1||2||||
+INDONESIA|||3||||
+KAZAKHSTAN|1|1|1||||
+NETHERLANDS|2|1|||||
+PERU|2|1|||||
+BULGARIA|2||||||
+CONGO|||2||||
+GREENLAND|1||1||||
+GUAM|1||1||||
+LATVIA|||2||||
+LEBANON|1||1||||
+MEXICO|1||1||||
+MONGOLIA|1||1||||
+NIGERIA|1||1||||
+PORTUGAL|2||||||
+SINGAPORE|1||1||||
+SYRIAN ARAB REPUBLIC|2||||||
+UKRAINE|1|1|||||
+ANGOLA||1|||||
+ARMENIA|1||||||
+AUSTRIA|1||||||
+BANGLADESH|||1||||
+BELGIUM|1||||||
+BENIN|1||||||
+BRITISH INDIAN OCEAN TERRITORY|||1||||
+CHAD|||1||||
+CYPRUS||1|||||
+EL SALVADOR|||1||||
+FRANCE|||1||||
+HONG KONg||1|||||
+HUNGARY|||1||||
+ICELAND|||1||||
+IRAN, ISLAMIC REPUBLIC OF|||1||||
+LIBYAN ARAB JAMAHIRIYA||1|||||
+MALAYSIA|||1||||
+MOROCCO|||1||||
+MOZAMBIQUE|1||||||
+NAMIBIA|||1||||
+NEPAL|||1||||
+NORTHERN MARIANA ISLANDS|||1||||
+NORWAY||||1|||
+POLAND|||1||||
+RWANDA|1||||||
+SERBIA AND MONTENEGRO|||1||||
+SEYCHELLES|1||||||
+SPAIN|1||||||
+SRI LANKA|||1||||
+TAJIKISTAN|||1||||
+TANZANIA, UNITED REPUBLIC OF|||1||||
+YEMEN|1||||||
+Grand Total: 110|5576|1605|6982|513|4|0|14680
+#SRC|FY2011|/agencies/owcp/dlhwc/dbaallnation(fy2011)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+IRAQ|2393|563|2074|40|||5070
+AFGHANISTAN|1306|246|1676|374|3||3605
+Nation Pending|422|93|356|6|||877
+KUWAIT|205|70|208|9|4||496
+UNITED STATES|61|15|195||||271
+GERMANY|95|9|30|3|||137
+In-FlighT|76|4|25||||105
+PUERTO RICO|30|20|30|3|||83
+PAKISTAN|27|7|33|12|||79
+JAPAN|56|1|10||||67
+MARSHALL ISLANDS|21|9|29||||59
+DJIBOUTI|25|7|16|1|||49
+UNITED ARAB EMIRATES|9|3|36||||48
+COLOMBIA|32|2|8|1|||43
+QATAR|15|1|18|2|1||37
+KOREA, REPUBLIC OF|15|4|10|1|||30
+IRELAND|19|1|7||||27
+OMAN|8|6|13||||27
+SUDAN|10|3|10||||23
+ISRAEL|5|6|11||||22
+KosovO|7||15||||22
+BAHRAIN|14|2|5||||21
+INDIA|7|1|5|1|||14
+JORDAN|4|2|7|1|||14
+HAITI|5||7|1|||13
+INDONESIA|10|1|2||||13
+BAHAMAS||1|11||||12
+BOSNIA AND HERZEGOVINA||1|11||||12
+LIBERIA|2|2|7||||11
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|3||7||||10
+CUBA|3|1|4|1|||9
+RUSSIAN FEDERATION|7|1|1||||9
+GEORGIA|4|3|1||||8
+KYRGYZSTAN|4||4||||8
+SOUTH AFRICA|2|1|4|1|||8
+HONDURAS|3|1|3||||7
+MEXICO|5|1|1||||7
+TAIWAN|2|2|3||||7
+CHINA|3|1|2||||
+CONGO|2||4||||
+ITALY|3||3||||
+PHILIPPINES|2|2|2||||
+SAUDI ARABIA|1||4|1|||
+UNITED KINGDOM|1|2|2|1|||
+KAZAKHSTAN|3||2||||
+KENYA|1|1|3||||
+UGANDA|1|2|2||||
+VIET NAM|3||2||||
+Acension Island, BRITISH|2||2||||
+LEBANON|2||2||||
+PERU|2||2||||
+ROMANIA|2|1|1||||
+SENEGAL|1|1|2||||
+AUSTRALIA|1||2||||
+CROATIA|||3||||
+NIGERIA|2||1||||
+THAILAND|1||1|1|||
+TURKEY||1|2||||
+UZBEKISTAN||||3|||
+BOLIVIA|1||1||||
+BURKINA FASO|1||1||||
+GUAM|2||||||
+HUNGARY|||2||||
+IRAN, ISLAMIC REPUBLIC OF|||2||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|1|1|||||
+PORTUGAL|1||1||||
+SERBIA AND MONTENEGRO|1||1||||
+SIERRA LEONE|||2||||
+ANTARCTICA|1||||||
+ANTIGUA AND BARBUDA|1||||||
+AUSTRIA|||1||||
+AZERBAIJAN|||1||||
+BANGLADESH|1||||||
+BRAZIL|||1||||
+CAMBODIA|||1||||
+CAMEROON|1||||||
+CANADA|1||||||
+CENTRAL AFRICAN REPUBLIC|1||||||
+CHAD|||1||||
+CONGO, THE DEMOCRATIC REPUBLIC OF THE||1|||||
+CZECH REPUBLIC|||1||||
+DOMINICAN REPUBLIC|1||||||
+EGYPT||1|||||
+EL SALVADOR|1||||||
+ETHIOPIA|||1||||
+FIJI|||1||||
+FRANCE|1||||||
+GABON|||1||||
+GAMBIA|1||||||
+GREECE|||1||||
+GUATEMALA|1||||||
+LAO PEOPLES DEMOCRATIC REPUBLIC|||1||||
+LIBYAN ARAB JAMAHIRIYA|1||||||
+MADAGASCAR||1|||||
+MALAWI|||1||||
+MALAYSIA|1||||||
+MALI|||1||||
+MALTA||||1|||
+MOLDOVA, REPUBLIC OF|1||||||
+SAMOA|||1||||
+SOLOMON ISLANDS|||1||||
+SRI LANKA|1||||||
+TAJIKISTAN||||1|||
+UKRAINE|||1||||
+UNITED STATES MINOR OUTLYING ISLANDS|1||||||
+VIRGIN ISLANDS, U.S.|||1||||
+Grand Total: 106|4968|1105|4964|465|8|0|11510
+#SRC|FY2012|/agencies/owcp/dlhwc/dbaallnation(fy2012)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|3697|162|2406|247|3|1|6516
+IRAQ|1625|80|989|14|||2708
+Nation Pending|708|24|296|7|||1035
+KUWAIt|322|28|268|6|||624
+UNITED STATES|130|7|90|1|||228
+In-Flight|72|2|15||||89
+MARSHALL ISLANDS|40|2|34||||76
+PUERTO RICO|28|6|42||||76
+GERMANY|33|4|26||||63
+HAITI|30|8|10||||48
+COLOMBIA|29||3|3|||35
+UNITED ARAB EMIRATES|12|1|17|3|||33
+QATAR|12|4|12|3|||31
+PAKISTAN|15||12|3|||30
+CHINA|8||18|1|||27
+DJIBOUTI|14||13||||27
+BAHAMAS|11|1|14||||26
+JAPAN|17|3|6||||26
+JORDAN|13|1|10||||24
+BAHRAIN|12|1|10||||23
+KosovO|16||7||||23
+SUDAN|16|2|5||||23
+OMAN|10|1|4|3|||18
+ISRAEL|11|1|4||||16
+CUBA|9|1|4|1|||15
+HONDURAS|10||5||||15
+UGANDA|4|1|7|1|||13
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|9||3||||12
+IRELAND|7||4||||11
+UNITED KINGDOM|6|1|4||||11
+ANTARCTICA|9||1||||10
+KOREA, REPUBLIC OF|3|1|5||||9
+KYRGYZSTAN|7||2||||9
+RUSSIAN FEDERATION|7||2||||9
+EGYPt|4||4||||8
+INDIA|3|1|4||||8
+PHILIPPINES|8||||||8
+TURKEY|5||3||||8
+CONGO|3||4||||7
+SAUDI ARABIA|4||3||||7
+SENEGAL|4|1|1|1|||7
+VIET NAM|7||||||7
+Acension Island, BRITISH|2||4||||
+GUATEMALA|3|1|2||||
+ITALY|2||3|1|||
+LIBERIA|3|1|1|1|||
+NIGERIA||1|2|3|||
+THAILAND|5||1||||
+KENYA|4||1||||
+LEBANON|2||3||||
+PERU|4||1||||
+AUSTRALIA|3||1||||
+BOSNIA AND HERZEGOVINA|||4||||
+GHANA|1|2|1||||
+GREECE|1||3||||
+KAZAKHSTAN|3|1|||||
+SERBIA AND MONTENEGRO|3||1||||
+SPAIN|1||3||||
+BURKINA FASO|1|1|1||||
+CENTRAL AFRICAN REPUBLIC|||3||||
+GUAM|2||1||||
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|||3||||
+PANAMA|1||2||||
+TIMOR-LESTE|3||||||
+UKRAINE|1||2||||
+UNITED STATES MINOR OUTLYING ISLANDS|||3||||
+AUSTRIA|||2||||
+BURUNDI|1||1||||
+CROATIA|||2||||
+DOMINICAN REPUBLIC|1||1||||
+ETHIOPIA|2||||||
+GEORGIA|||1|1|||
+GREENLAND|1||1||||
+INDONESIA|2||||||
+MONGOLIA|1||1||||
+NETHERLANDS ANTILLES|2||||||
+ROMANIA|2||||||
+SOUTH AFRICA|1||1||||
+TAIWAN|||2||||
+TAJIKISTAN|1|||1|||
+TANZANIA, UNITED REPUBLIC OF|1||1||||
+UZBEKISTAN|1|||1|||
+ALAND ISLANDS|1||||||
+ALBANIA||1|||||
+ANTIGUA AND BARBUDA|1||||||
+AZERBAIJAN|1||||||
+BANGLADESH|1||||||
+BOLIVIA|||1||||
+BOTSWANA|1||||||
+BRAZIL|1||||||
+CAMEROON|1||||||
+CANADA|1||||||
+DOMINICA|||1||||
+ECUADOR|1||||||
+EL SALVADOR|1||||||
+GABON|||1||||
+GUADELOUPE|1||||||
+GUYANA|1||||||
+IRAN, ISLAMIC REPUBLIC OF|||1||||
+LATVIA|||1||||
+LIBYAN ARAB JAMAHIRIYA|||1||||
+MALTA|||1||||
+MEXICO|1||||||
+NETHERLANDS|||1||||
+PALESTINIAN TERRITORY, OCCUPIED|||1||||
+PARAGUAY|1||||||
+PORTUGAL|||1||||
+RWANDA||1|||||
+SAN MARINO|||1||||
+SIERRA LEONE|||1||||
+SLOVENIA|1||||||
+TRINIDAD AND TOBAGO|1||||||
+TUNISIA|1||||||
+Grand Total: 113|7068|353|4438|302|3|1|12165
+#SRC|FY2013|/agencies/owcp/dlhwc/dbaallnation(fy2013)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|4538|102|2529|180|1||7350
+IRAQ|1157|21|576|15|||1769
+Nation Pending|493|7|220|5|||725
+KUWAIT|254|21|239|3|||517
+UNITED STATES|57||59|4|1||121
+MARSHALL ISLANDS|50|2|33|1|||86
+In-FlighT|54|2|20|1|||77
+GERMANY|38|2|26||||66
+PUERTO RICO|22|3|33||||58
+PAKISTAN|20||23|14|||57
+ANTARCTICA|32||19||||51
+QATAR|12|1|28|1|||42
+COLOMBIA|30|2|8||||40
+KosovO|23||12||||35
+BAHAMAS|18||12||||30
+BAHRAIN|17|2|9||||28
+JAPAN|22||5||||27
+HAITI|18|3|5||||26
+UNITED ARAB EMIRATES|13||12|1|||26
+SUDAN|13||9||||22
+KOREA, REPUBLIC OF|19||2||||21
+DJIBOUTI|8||12||||20
+SAUDI ARABIA|12||6||||18
+JORDAN|7|2|6|1|||16
+UGANDA|8|1|5||||14
+KYRGYZSTAN|6||6|1|||13
+YEMEN|8||5||||13
+CUBA|6||6||||12
+RUSSIAN FEDERATION|6|3|2|1|||12
+UNITED KINGDOM|6||6||||12
+LIBERIA|7||3||||10
+OMAN|4|1|5||||10
+EGYPT|3|1|5||||9
+HONDURAS|6||3||||9
+ITALY|6|1|2||||9
+KENYA|5||4||||9
+CENTRAL AFRICAN REPUBLIC|3||4||||7
+GUAM|4||3||||7
+ISRAEL|2||5||||7
+PHILIPPINES|6||1||||7
+MONGOLIA|1||5||||
+NIGERIA|4||1|1|||
+TURKEY|3||3||||
+Acension Island, BRITISH|2|1|2||||
+AUSTRALIA|3||2||||
+GUATEMALA|2||3||||
+IRELAND|2||3||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|5||||||
+LIBYAN ARAB JAMAHIRIYA|||3|2|||
+CONGO|2||2||||
+GREECE|2||2||||
+GUINEA|2||2||||
+INDIA|2||1|1|||
+PERU|4||||||
+THAILAND|4||||||
+ANTIGUA AND BARBUDA|2||1||||
+BURKINA FASO|3||||||
+CHILE|1||2||||
+CHINA|2||1||||
+CYPRUS|3||||||
+ECUADOR|||3||||
+GEORGIA|2|||1|||
+GHANA|2||1||||
+GREENLAND|1||2||||
+HUNGARY|2||1||||
+MEXICO|1|1|1||||
+SOUTH AFRICA|1||2||||
+TAIWAN|3||||||
+UNITED STATES MINOR OUTLYING ISLANDS|2||1||||
+AZERBAIJAN|2||||||
+BELGIUM|1||1||||
+BRAZIL|||2||||
+BRITISH INDIAN OCEAN TERRITORY||||2|||
+BURUNDI|2||||||
+ETHIOPIA|1||1||||
+LEBANON|||2||||
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|||2||||
+NETHERLANDS|2||||||
+PALESTINIAN TERRITORY, OCCUPIED|1|||1|||
+POLAND|1||1||||
+SENEGAL||1|1||||
+SERBIA AND MONTENEGRO|1||1||||
+SIERRA LEONE|2||||||
+SPAIN|1||1||||
+TAJIKISTAN|1|1|||||
+VIET NAM|2||||||
+AMERICAN SAMOA|1||||||
+ARGENTINA||1|||||
+AUSTRIA|||1||||
+BELIZE|||1||||
+BOLIVIA|||1||||
+BOSNIA AND HERZEGOVINA|||1||||
+BOTSWANA|||1||||
+CAMBODIA|1||||||
+DOMINICA|1||||||
+EL SALVADOR|||1||||
+FIJI|1||||||
+FINLAND|1||||||
+GAMBIA|1||||||
+INDONESIA|1||||||
+KAZAKHSTAN|||1||||
+LAO PEOPLES DEMOCRATIC REPUBLIC|1||||||
+MALAYSIA|||1||||
+MALI|||1||||
+MOROCCO||1|||||
+NEW ZEALAND|1||||||
+NIGER|1||||||
+NORTHERN MARIANA ISLANDS|||1||||
+PANAMA|1||||||
+ROMANIA|1||||||
+SINGAPORE|1||||||
+SRI LANKA|||1||||
+TANZANIA, UNITED REPUBLIC OF|||1||||
+TUNISIA|1||||||
+UKRAINE||||1|||
+VENEZUELA|||1||||
+ZAMBIA|1||||||
+ZIMBABWE|||1||||
+Grand Total: 118|7108|183|4038|237|2|0|11568
+#SRC|FY2014|/agencies/owcp/dlhwc/dbaallnation(fy2014)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|3077|76|1848|103|1||5105
+IRAQ|458|13|283|8|||762
+Nation Pending|351|23|236|4|||614
+KUWAIT|195|31|160|4|||390
+UNITED STATES|45|2|46|2|||95
+GERMANY|40|1|25||||66
+ROMANIA|51|1|6||||58
+In-FlighT|35|2|19||||56
+MARSHALL ISLANDS|35||20||||55
+UNITED ARAB EMIRATES|23|2|12||||37
+PAKISTAN|12|2|15|7|||36
+PUERTO RICO|18||18||||36
+ANTARCTICA|25||9||||34
+COLOMBIA|20||8|2|||30
+TAIWAN|21|3|5||||29
+QATAR|17||10|1|||28
+BAHRAIN|14|1|11||||26
+PHILIPPINES|14||10|1|||25
+SAUDI ARABIA|8|2|15||||25
+JAPAN|13||9|1|||23
+DJIBOUTI|8|1|12|1|||22
+BAHAMAS|10|1|8||||19
+KosovO|10||5||||15
+UNITED KINGDOM|8||5||||13
+Acension Island, BRITISH|3|2|7||||12
+CUBA|6|1|4||||11
+GUAM|5||5||||10
+JORDAN|7||2|1|||10
+KYRGYZSTAN|3|2|4|1|||10
+LIBERIA|6||4||||10
+CYPRUS|7||2||||9
+ISRAEL|3||6||||9
+KOREA, REPUBLIC OF|8||1||||9
+NIGER|7|1|1||||9
+THAILAND|5||4||||9
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|5|1|2||||8
+HONDURAS|4||3||||7
+KENYA|3||1|3|||7
+OMAN|3|1|3||||7
+UGANDA|3||4||||7
+CHINA|2||4||||
+RUSSIAN FEDERATION|5||1||||
+SOUTH AFRICA|2||4||||
+TURKEY|4||2||||
+GREECE|3||2||||
+GUINEA|3||2||||
+HAITI|1||4||||
+INDIA|4||1||||
+ITALY|3||2||||
+PERU|1|1|2|1|||
+SUDAN|2||3||||
+VIET NAM|3||2||||
+ANTIGUA AND BARBUDA|1|1|2||||
+EGYPT|||4||||
+BANGLADESH|1|1|1||||
+EL SALVADOR|1||2||||
+ETHIOPIA|1|1|1||||
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|||3||||
+SPAIN|1||1|1|||
+TUNISIA|1||2||||
+AUSTRIA|||2||||
+BRAZIL|1||1||||
+BULGARIA|2||||||
+BURKINA FASO|||2||||
+CANADA|||2||||
+GHANA|1||1||||
+GREENLAND|2||||||
+INDONESIA|||2||||
+LEBANON|1||1||||
+LIBYAN ARAB JAMAHIRIYA|||2||||
+MADAGASCAR|||1|1|||
+MONGOLIA|1||1||||
+NEPAL|1||1||||
+NIGERIA|2||||||
+PANAMA|1||1||||
+PARAGUAY|2||||||
+RWANDA|||2||||
+SIERRA LEONE|||2||||
+SINGAPORE||1|1||||
+ALGERIA|||1||||
+AUSTRALIA|||1||||
+BENIN|1||||||
+BOSNIA AND HERZEGOVINA|1||||||
+BRITISH INDIAN OCEAN TERRITORY|||1||||
+BURUNDI||||1|||
+CAMBODIA|1||||||
+CENTRAL AFRICAN REPUBLIC|1||||||
+CONGO|||1||||
+COSTA RICA|||1||||
+COTE DIVOIRE|||1||||
+CROATIA|||1||||
+DOMINICAN REPUBLIC|||1||||
+GABON|1||||||
+GEORGIA|1||||||
+GUATEMALA|1||||||
+HUNGARY|||1||||
+JAMAICA|1||||||
+MALI|||1||||
+MEXICO|1||||||
+MOLDOVA, REPUBLIC OF|1||||||
+MOZAMBIQUE|1||||||
+MYANMAR|||1||||
+NETHERLANDS|||1||||
+SLOVENIA|1||||||
+SWAZILAND|||1||||
+TAJIKISTAN|1||||||
+TANZANIA, UNITED REPUBLIC OF|1||||||
+TURKMENISTAN||1|||||
+UNITED STATES MINOR OUTLYING ISLANDS|||1||||
+URUGUAY|1||||||
+VENEZUELA|1||||||
+Grand Total: 111|4655|175|2929|143|1|0|7903
+#SRC|FY2015|/agencies/owcp/dlhwc/dbaallnation(fy2015)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|1565|55|1063|56|1|1|2741
+IRAQ|556|26|288|16|||886
+Nation Pending|483|23|247|12|||765
+KUWAIT|154|24|128|7|||313
+QATAR|16|11|154|2|2||185
+MARSHALL ISLANDS|110||23||||133
+ANTARCTICA|47||11||||58
+GERMANY|32|3|21|1|||57
+UNITED STATES|31|2|24||||57
+JAPAN|20|3|19||||42
+LIBERIA|20|1|15|2|||38
+PUERTO RICO|14||20||||34
+SAUDI ARABIA|16||9|1|||26
+DJIBOUTI|17||6||||23
+In-FlighT|17||5||||22
+ISRAEL|10|2|9||||21
+TAIWAN|13|2|5||||20
+UNITED ARAB EMIRATES|12|1|6|1|||20
+BAHAMAS|10||8||||18
+KOREA, REPUBLIC OF|8||10||||18
+COLOMBIA|13||4||||17
+PHILIPPINES|9||7||||16
+CENTRAL AFRICAN REPUBLIC|13||2||||15
+BAHRAIN|7||6||||13
+JORDAN|8||4|1|||13
+CUBA|8||4||||12
+OMAN|4|1|7||||12
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|7|1|3||||11
+PAKISTAN|7||4||||11
+CHAD|3|1|6||||10
+KosovO|3|1|5|1|||10
+RUSSIAN FEDERATION|7|1|2||||10
+SOUTH AFRICA|5|1|4||||10
+SUDAN|4|1|3|1|||9
+AUSTRALIA|3||4|1|||8
+BRITISH INDIAN OCEAN TERRITORY|2||6||||8
+INDIA|5||3||||8
+NIGER|4||4||||8
+UNITED KINGDOM|3|1|4||||8
+ROMANIA|5|1|1||||7
+GREECE|4||2||||
+PANAMA|5||1||||
+HAITI|4||1||||
+ICELAND|4||1||||
+ITALY|1||4||||
+KENYA|2|2||1|||
+KYRGYZSTAN|1|2|2||||
+MEXICO|3|1|1||||
+TURKEY|2||2|1|||
+Acension Island, BRITISH|4||||||
+BELGIUM|2|1|1||||
+BULGARIA|||2|2|||
+CYPRUS|3||1||||
+UKRAINE|||2|2|||
+BENIN|||3||||
+BURKINA FASO|1||2||||
+CANADA|2||1||||
+CHINA|2||1||||
+GREENLAND|3||||||
+GUAM|1||2||||
+GUINEA|1||2||||
+HONDURAS|3||||||
+LEBANON|1|1|1||||
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|2||1||||
+NETHERLANDS|1|2|||||
+TANZANIA, UNITED REPUBLIC OF|1||2||||
+THAILAND|1||2||||
+UGANDA|1||2||||
+ANTIGUA AND BARBUDA|1||1||||
+AUSTRIA|1||1||||
+BANGLADESH|1||1||||
+BOSNIA AND HERZEGOVINA|1|||1|||
+CAMBODIA|1|1|||||
+CROATIA|2||||||
+EL SALVADOR||1|1||||
+ETHIOPIA|1||1||||
+GAMBIA|||2||||
+GHANA|1||1||||
+GUATEMALA|2||||||
+MYANMAR|||2||||
+PERU|1||1||||
+SAINT HELENA|2||||||
+SINGAPORE|1||1||||
+SPAIN|2||||||
+SURINAME|1||1||||
+VIET NAM|1||1||||
+YEMEN|||2||||
+ZAMBIA|||1|1|||
+AZERBAIJAN|||1||||
+BOTSWANA|||1||||
+BRUNEI DARUSSALAM|1||||||
+CAMEROON|||1||||
+CHILE|||1||||
+CONGO||1|||||
+EGYPT|1||||||
+FRANCE|1||||||
+GUINEA-BISSAU||1|||||
+GUYANA|||1||||
+INDONESIA|||1||||
+JAMAICA||||1|||
+KAZAKHSTAN|||1||||
+MALTA|1||||||
+MAURITIUS|||1||||
+MOLDOVA, REPUBLIC OF|1||||||
+MOROCCO|1||||||
+NEPAL|1||||||
+NIGERIA|||1||||
+NORWAY|||1||||
+PALESTINIAN TERRITORY, OCCUPIED|1||||||
+RWANDA|1||||||
+SIERRA LEONE|||1||||
+SOMALIA|1||||||
+UZBEKISTAN|1||||||
+Grand Total: 113|3356|175|2221|111|3|1|5867
+#SRC|FY2016|/agencies/owcp/dlhwc/dbaallnation(fy2016)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|1189|23|850|47|||2109
+IRAQ|949|22|403|10|||1384
+Nation PendinG|524|10|230|3|||767
+KUWAIT|232|29|176|3|||440
+MARSHALL ISLANDS|182||44|1|||227
+UNITED STATES|55|2|32|3||1|93
+GERMANY|33|1|21||||55
+JAPAN|20|1|29|2|||52
+SAUDI ARABIA|14|6|27|4|||51
+SOUTH SUDAN|2|1|47|1|||51
+JORDAN|23||18|7|||48
+In-FlighT|29||11||||40
+KOREA, REPUBLIC OF|23||15|2|||40
+QATAR|16|3|19|1|||39
+UNITED ARAB EMIRATES|26|2|10|1|||39
+Acension Island, BRITISH|9|11|18||||38
+DJIBOUTI|24|1|10||||35
+PUERTO RICO|15|1|16|1|||33
+ANTARCTICA|21||10||||31
+CHAD|2|4|18|4|||28
+KosovO|15|2|7|1|||25
+NIGER|13||7||||20
+CENTRAL AFRICAN REPUBLIC|8|2|9||||19
+PAKISTAN|9|1|7|1|||18
+SUDAN|9|1|7||||17
+BAHAMAS|9||7||||16
+ITALY|10||6||||16
+UNITED KINGDOM|7|1|8||||16
+BAHRAIN|10||5||||15
+UGANDA|10||2|1|||13
+CUBA|9|1|2||||12
+ROMANIA|11||1||||12
+LIBERIA|4|1|6||||11
+BELGIUM|1||9||||10
+COLOMBIA|7||3||||10
+ISRAEL|2||6|1|||9
+TURKEY|5||3|1|||9
+UKRAINE|3||5||||8
+HONDURAS|4||3||||7
+RUSSIAN FEDERATION|5|1|1||||7
+CYPRUS|6||||||
+GUYANA|1||5||||
+HAITI|3||3||||
+KENYA|2||4||||
+OMAN|2||4||||
+PANAMA|5||1||||
+SENEGAL|2||4||||
+SIERRA LEONE|4||2||||
+SPAIN|3|1|2||||
+TAIWAN|4||2||||
+THAILAND|4|1|1||||
+CAMEROON|2||3||||
+GHANA|3|1|1||||
+LITHUANIA|2||3||||
+MALI|2||2|1|||
+NETHERLANDS ANTILLES|3||2||||
+PHILIPPINES|2||2|1|||
+SINGAPORE|2||3||||
+AUSTRALIA|2||2||||
+EGYPT|3||1||||
+GREENLAND|3||1||||
+GUATEMALA|2||2||||
+INDONESIA|1|1|2||||
+MEXICO|||3|||1|
+SOUTH AFRICA|2|1|1||||
+BRAZIL|2||1||||
+BRITISH INDIAN OCEAN TERRITORY|1||2||||
+CAMBODIA|||3||||
+CHINA|3||||||
+CONGO|2||1||||
+INDIA|1|1|1||||
+IRELAND|3||||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|2||1||||
+MALAWI|1|1|1||||
+NETHERLANDS|1||2||||
+NIGERIA|1||2||||
+TANZANIA, UNITED REPUBLIC OF|1|1|1||||
+VIET NAM|2||1||||
+AUSTRIA|||2||||
+BENIN|1|||1|||
+BOSNIA AND HERZEGOVINA|1||1||||
+BULGARIA|1||1||||
+CANADA|||2||||
+COSTA RICA|1||1||||
+CROATIA|||2||||
+ESTONIA|1||1||||
+GREECE|||2||||
+GUINEA|2||||||
+JAMAICA|||2||||
+MOROCCO|1||1||||
+NORWAY|1||1||||
+PALESTINIAN TERRITORY, OCCUPIED|2||||||
+PERU|2||||||
+TURKMENISTAN|||2||||
+YEMEN|1|||1|||
+ARGENTINA|1||||||
+AZERBAIJAN|||1||||
+BANGLADESH|||1||||
+BELIZE|||1||||
+BOLIVIA|||1||||
+CHILE|1||||||
+GAMBIA|1||||||
+GUAM|1||||||
+KAZAKHSTAN|||1||||
+LAO PEOPLES DEMOCRATIC REPUBLIC|||1||||
+MALAYSIA|1||||||
+MAURITANIA|1||||||
+MAURITIUS|1||||||
+MICRONESIA, FEDERATED STATES OF|||1||||
+MYANMAR|1||||||
+NEPAL|1||||||
+NEW ZEALAND|||1||||
+PAPUA NEW GUINEA|||1||||
+SURINAME|||1||||
+SYRIAN ARAB REPUBLIC|||1||||
+UNITED STATES MINOR OUTLYING ISLANDS|||1||||
+UZBEKISTAN|1||||||
+VIRGIN ISLANDS, U.S.|1||||||
+Grand Total: 118|3649|135|2210|99|0|2|6095
+#SRC|FY2017|/agencies/owcp/dlhwc/dbaallnation(fy2017)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|1262|47|845|40|||2194
+IRAQ|1070|62|562|9||2|1705
+Nation Pending|582|24|258|3|||867
+KUWAIT|400|18|205|9|||632
+MARSHALL ISLANDS|127|2|34|1|||164
+QATAR|15|12|41|2|||70
+ANTARCTICA|50||18||||68
+GERMANY|22|2|28|1|||53
+UNITED STATES|22||30|1|||53
+SAUDI ARABIA|5|5|28|1|||39
+JAPAN|22||15|1|||38
+EL SALVADOR|1||36||||37
+PUERTO RICO|25|2|10||||37
+ASCENSION ISLAND, BRITISH|18|3|12||||33
+UNITED ARAB EMIRATES|16|2|15||||33
+KOREA, REPUBLIC OF|19||8|3|||30
+IN-FLIGHT|18||11||||29
+BAHAMAS|16||9||||25
+JORDAN|9|1|13|1|||24
+ISRAEL|17|3|3||||23
+BAHRAIN|12|1|8||||21
+HONDURAS|18||2||||20
+KOSOVO|14||5||||19
+DJIBOUTI|14|1|3||||18
+NIGER|9||9||||18
+ROMANIA|14||1||||15
+UNITED KINGDOM|10||5||||15
+CHAD|3|2|7|2|||14
+ITALY|9||4||||13
+TAIWAN|3|3|6||||12
+RUSSIAN FEDERATION|8||3||||11
+SYRIAN ARAB REPUBLIC|3||6|2|||11
+TURKEY|8||2||||10
+UGANDA|2|1|7||||10
+CENTRAL AFRICAN REPUBLIC|7||2||||9
+CUBA|5|1|2|1|||9
+SOUTH SUDAN|4||5||||9
+UKRAINE|7||2||||9
+HAITI|2||6||||8
+KENYA|3||5||||8
+PAKISTAN|3||5||||8
+POLAND|5||2|1|||8
+ZIMBABWE|4|1|3||||8
+BELGIUM|3||4||||7
+GREENLAND|5||2||||7
+GUAM|5||2||||7
+GUATEMALA|5|1|1||||7
+LIBERIA|3||4||||7
+NIGERIA|2|2|1|2|||7
+OMAN|2||5||||7
+SOMALIA|||5|2|||7
+TANZANIA, UNITED REPUBLIC OF|5||2||||7
+AUSTRALIA|2||4||||
+EGYPT|2|1|2|1|||
+SOUTH AFRICA|4||2||||
+CHINA|4||1||||
+GREECE|3||2||||
+PERU|5||||||
+SPAIN|1||4||||
+INDONESIA|2|1|1||||
+SRI LANKA|1|1|2||||
+BURKINA FASO|1|1|1||||
+COLOMBIA|||1|2|||
+GUINEA|2||1||||
+LEBANON|1|1|1||||
+MALI||1|1|1|||
+NETHERLANDS|1||2||||
+PANAMA|2||1||||
+SINGAPORE|2|||1|||
+THAILAND|3||||||
+AUSTRIA|2||||||
+BRITISH INDIAN OCEAN TERRITORY|||1|1|||
+CAMEROON|||2||||
+CANADA|||2||||
+ETHIOPIA|2||||||
+FRANCE|||2||||
+GABON|1||1||||
+GAMBIA|2||||||
+GHANA|1|||1|||
+HUNGARY|1|||1|||
+IRELAND|2||||||
+PHILIPPINES|1||1||||
+RWANDA|||2||||
+VIETNAM|1|||||1|
+BANGLADESH||1|||||
+BOSNIA AND HERZEGOVINA|||1||||
+BRAZIL|1||||||
+BULGARIA|1||||||
+CHILE|1||||||
+CONGO|||1||||
+CROATIA|1||||||
+DUTCH CARRIBBEAN|1||||||
+LAO PEOPLES DEMOCRATIC REPUBLIC|1||||||
+LESOTHO|||1||||
+LITHUANIA|||1||||
+MACEDONIA, THE FORMER YUGOSLAV REPUBLIC|1||||||
+MALAYSIA|||1||||
+MAURITANIA|||1||||
+MEXICO||1|||||
+MOZAMBIQUE||1|||||
+MYANMAR|||1||||
+NEW ZEALAND|1||||||
+NORTHERN MARIANA ISLANDS|||1||||
+NORWAY||1|||||
+PALESTINIAN TERRITORY, OCCUPIED|||1||||
+PARAGUAY|1||||||
+SIERRA LEONE|1||||||
+TUNISIA|1||||||
+TURKMENISTAN|1||||||
+UZBEKISTAN|||1||||
+Grand Total: 110|3974|206|2354|90|0|3|6627
+#SRC|FY2018|/agencies/owcp/dlhwc/dbaallnation(fy2018)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|1107|113|816|27|||2063
+IRAQ|1049|149|651|8|||1857
+Nation Pending|845|69|306|10|||1230
+KUWAIT|262|36|161|6|||465
+MARSHALL ISLANDS|133|6|28||||167
+GERMANY|35|7|18||||60
+ANTARCTICA|43|5|9||||57
+QATAR|15|2|38|1|||56
+UNITED STATES|21|2|27|1|||51
+KOREA, REPUBLIC OF|20|3|16|2|||41
+PUERTO RICO|11|2|25|2|||40
+DJIBOUTI|28|2|8||||38
+JAPAN|18|2|13|3|||36
+IN-FLIGHT|23||11||||34
+KOSOVO|24|2|4||||30
+ISRAEL|14|4|7||||25
+SYRIAN ARAB REPUBLIC|10|3|9|3|||25
+BAHAMAS|17|2|5||||24
+HONDURAS|15|2|6||||23
+SOMALIA|9||14||||23
+ASCENSION ISLAND, BRITISH|6|7|6|1|||20
+UNITED ARAB EMIRATES|10|1|9||||20
+JORDAN|4|3|12||||19
+POLAND|11|2|2||||15
+CUBA|7|1|5|1|||14
+NIGER|7||6|1|||14
+SAUDI ARABIA|7|1|5|1|||14
+KENYA|6|2|5||||13
+BAHRAIN|5|2|4||||11
+SOUTH SUDAN|7|1|3||||11
+TAIWAN|1||9||||10
+TURKEY|6||4||||10
+ITALY|4||5||||9
+UNITED KINGDOM|2|3|3|1|||9
+CHINA|5|1|1||||7
+PAKISTAN|3||4||||7
+SOUTH AFRICA|2|2|2|1|||7
+EGYPT|3||3||||
+PHILIPPINES|2||4||||
+GREENLAND|2|1|2||||
+CENTRAL AFRICAN REPUBLIC|1||3||||
+EL SALVADOR|2||2||||
+GREECE|1|1|2||||
+HAITI|2||2||||
+LIBERIA|1||3||||
+MEXICO|2||2||||
+CHAD|2||1||||
+PANAMA|2||1||||
+PERU|1||2||||
+RUSSIAN FEDERATION|1||2||||
+SINGAPORE|1||2||||
+ZAMBIA|||3||||
+AUSTRIA|||2||||
+BULGARIA|2||||||
+COLOMBIA||1|1||||
+COTE DIVOIRE|||2||||
+CROATIA||1||1|||
+ECUADOR|1|1|||||
+ETHIOPIA|||1|1|||
+GUAM|1||1||||
+GUATEMALA|2||||||
+GUINEA|1||1||||
+HONG KONG|1|1|||||
+INDIA|1||1||||
+INDONESIA|1||1||||
+IRELAND|1|1|||||
+MALAYSIA|2||||||
+PALESTINIAN TERRITORY, OCCUPIED|||2||||
+SENEGAL||||2|||
+SPAIN|1||1||||
+THAILAND|1||1||||
+TUNISIA|2||||||
+UGANDA|1||1||||
+UKRAINE||1|1||||
+URUGUAY|2||||||
+ZIMBABWE|1||1||||
+ALAND ISLANDS|||1||||
+ANGOLA|||1||||
+ANTIGUA AND BARBUDA|1||||||
+ARGENTINA|||1||||
+AUSTRALIA|||1||||
+BELGIUM|1||||||
+BOTSWANA||1|||||
+BRITISH INDIAN OCEAN TERRITORY|1||||||
+BURUNDI|||1||||
+CAMEROON|||1||||
+CHILE|||1||||
+CONGO|1||||||
+COSTA RICA||1|||||
+DENMARK|1||||||
+FRANCE|||1||||
+GABON|1||||||
+HUNGARY|1||||||
+IRAN, ISLAMIC REPUBLIC OF||1|||||
+LIBYAN ARAB JAMAHIRIYA|1||||||
+MALI|||1||||
+MAURITANIA|1||||||
+MOROCCO|1||||||
+MYANMAR|1||||||
+NETHERLANDS|1||||||
+NIGERIA|1||||||
+OMAN|1||||||
+REUNION|1||||||
+RWANDA|1||||||
+SRI LANKA|||1||||
+SWITZERLAND|1||||||
+TRINIDAD AND TOBAGO|||1||||
+VIETNAM|||1||||
+Grand Total: 108|3853|448|2320|73|0|0|6694
+#SRC|FY2019|/agencies/owcp/dlhwc/dbaallnation(fy2019)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|1367|40|1677|38||1|3123
+IRAQ|1370|46|1238|4|||2658
+Nation Pending|800|25|385|9|||1219
+KUWAIT|204|19|207|1|||431
+MARSHALL ISLANDS|101|1|24|1|||127
+ANTARCTICA|41|1|12|1|||55
+UNITED STATES|29|1|21||||51
+CUBA|33|1|14||||48
+IN-FLIGHT|33||14||||47
+GERMANY|18|3|25||||46
+QATAR|14||26|2|||42
+KOSOVO|30||7|1|||38
+SOMALIA|22|1|10|2|||35
+DJIBOUTI|17||12||||29
+SAUDI ARABIA|4|2|18|1|||25
+UNITED ARAB EMIRATES|10|1|14||||25
+JAPAN|8|2|12|1|||23
+SYRIAN ARAB REPUBLIC|6|1|13|3|||23
+PUERTO RICO|7|1|12|1|||21
+KOREA, REPUBLIC OF|14||6||||20
+BAHAMAS|15||4||||19
+ISRAEL|14||5||||19
+JORDAN|3|1|14||||18
+TURKEY|9||8||||17
+BAHRAIN|10||5|1|||16
+ASCENSION ISLAND, BRITISH|9|2|3||||14
+KENYA|5||8|1|||14
+NIGER|3|1|10||||14
+HONDURAS|9||4||||13
+POLAND|9||4||||13
+GUATEMALA|3||6||||9
+ITALY|8||1||||9
+PHILIPPINES|4||4|1|||9
+UGANDA|3||6||||9
+GHANA|2||5|1|||8
+PERU|3||5||||8
+UNITED KINGDOM|4||3||||7
+EGYPT|2||4||||
+CHINA|5||||||
+GREENLAND|3||2||||
+UKRAINE|3||2||||
+BANGLADESH|2||1|1|||
+CHAD|4||||||
+LIBERIA|1|1|2||||
+SOUTH AFRICA|1|1|2||||
+THAILAND||1|3||||
+COSTA RICA|||3||||
+GREECE|2||1||||
+GUAM|2||1||||
+MADAGASCAR|3||||||
+MALAWI||1|2||||
+OMAN|2|||1|||
+PANAMA|1||2||||
+TUNISIA|1||1|1|||
+AUSTRALIA|||2||||
+AUSTRIA|||2||||
+BELGIUM|1||1||||
+BOSNIA AND HERZEGOVINA|||2||||
+BRITISH INDIAN OCEAN TERRITORY|2||||||
+COLOMBIA|||2||||
+CONGO|1||1||||
+ECUADOR|2||||||
+GUYANA|||2||||
+HAITI|1|||1|||
+IRELAND|1||1||||
+LEBANON|1||1||||
+LIBYAN ARAB JAMAHIRIYA|1||1||||
+MALI|||2||||
+NEPAL|2||||||
+NORWAY|||2||||
+ROMANIA|2||||||
+RUSSIAN FEDERATION|1||1||||
+SINGAPORE|1||1||||
+SOUTH SUDAN|1|1|||||
+SPAIN|1||1||||
+SRI LANKA|1||1||||
+TANZANIA, UNITED REPUBLIC OF|||1|1|||
+URUGUAY|2||||||
+YEMEN|||2||||
+ALAND ISLANDS|||1||||
+BARBADOS|||1||||
+BULGARIA|||1||||
+CAMBODIA|||1||||
+CAMEROON|||1||||
+CENTRAL AFRICAN REPUBLIC|||1||||
+COTE DIVOIRE|||1||||
+CYPRUS|1||||||
+EL SALVADOR|||1||||
+ESTONIA|||1||||
+FRANCE|||1||||
+GABON|||1||||
+GEORGIA|||1||||
+GUINEA|||1||||
+GUINEA-BISSAU|1||||||
+INDIA|||1||||
+IRAN, ISLAMIC REPUBLIC OF|||1||||
+KOREA, DEMOCRATIC PEOPLES REPUBLIC OF|||1||||
+KYRGYZSTAN|||1||||
+MEXICO|||1||||
+MONGOLIA|1||||||
+MOROCCO|||1||||
+MOZAMBIQUE|||1||||
+PAKISTAN|1||||||
+PARAGUAY|1||||||
+SAINT HELENA||1|||||
+SENEGAL|||1||||
+SERBIA AND MONTENEGRO|1||||||
+TAIWAN|||1||||
+TRINIDAD AND TOBAGO|||1||||
+Grand Total: 109|4300|155|3917|74|0|1|8447
+#SRC|FY2020|/agencies/owcp/dlhwc/dbaallnation(fy2020)|NATION,NLT,LTO,LT4,DEA,COP,OTH,TOTAL
+AFGHANISTAN|2518|176|2529|31|||5259
+IRAQ|1948|128|2301|15|||4393
+Nation Pending|2044|93|979|16||362|3496
+UNITED STATES|28||32||||60
+KUWAIT|291|17|321||||634
+KOSOVO|187||17||||210
+QATAR|109||86||||197
+ANTARCTICA|118|17|33||||168
+MARSHALL ISLANDS|78||36||||117
+GERMANY|33||16||||52
+SOMALIA|15||13||||29
+KOREA, REPUBLIC OF|17||9||||26
+DJIBOUTI|19||||||25
+UNITED ARAB EMIRATES|15||8||||24
+CUBA|||16||||23
+LEBANON|21||||||22
+JORDAN|||16||||20
+JAPAN|15||||||19
+SYRIAN ARAB REPUBLIC|||12||||19
+UGANDA|||13||||19
+IRELAND|9||9||||18
+HONDURAS|||9||||17
+ISRAEL|11||||||17
+BAHRAIN|||8||||15
+ZAMBIA|9||||||15
+IN-FLIGHT|||||||14
+PERU|12||||||14
+GUATEMALA|||8||||13
+PAKISTAN|||10||||13
+POLAND|12||||||13
+TURKEY|||||||12
+NIGER|||||||11
+SAUDI ARABIA|||||||10
+GUAM|||||||9
+INDIA|||||||9
+MACEDONIA, THE FORMER YUGOSLAV|||||||8
+PHILIPPINES|||||||8
+Total 118|7699|462|6621|78|3|372|15235
+#SRC|FY2021|/sites/dolgov/files/OWCP/dlhwc/dbadata/FY21countrydata.xlsx|COUNTRY,SUM(NLT),SUM(COP),SUM(LTO3),SUM(LTO4),SUM(DEA),SUM(OTH),SUM(TOTAL)
+Iraq|3438||10|2568|26|58|6101
+Afghanistan|3034|||2493|30|77|5640
+Nation Pending|1691||14|405|11|47|2168
+United States of America (the)|1137|||545|12||1698
+Kuwait|799|||429|14||1243
+Qatar|59|||156|||216
+Uganda|19|||160|||180
+Djibouti|129|||12|||142
+Antarctica|100||||||105
+United Arab Emirates (the)|47|||45|||93
+Marshall Islands (the)|49|||15|||65
+Syrian Arab Republic|18|||40|||60
+Germany|38|||20|||58
+Jordan|16|||19|||38
+Somalia|20|||16|||37
+Spain|35||||||35
+Japan|17|||10|||29
+Cuba||||22|||27
+Lebanon|24||||||25
+Turkey|11|||13|||24
+Korea (the Republic of)|12|||12|||24
+Bulgaria|19||||||24
+Poland|22||||||24
+Zambia|22||||||24
+Saudi Arabia|13|||8|||22
+Israel|16||||||22
+Romania|18||||||22
+Bahamas (the)|14||||||20
+Bahrain|14||||||19
+Niger (the)|9||||||17
+Bosnia and Herzegovina|14||||||17
+Guatemala||||15|||15
+Oman||||11|||15
+India|8||||||14
+Kenya|||||||14
+United Kingdom of Great Britain and Northern Ireland (the)|8||||||11
+Honduras|||||||11
+Sudan (the)|||||||11
+Colombia|||||||10
+Guam|||||||10
+Mali||||8|||9
+Italy|||||||8
+Liberia|||||||8
+Yemen|||||||8
+||||||Total|18520
+#SRC|FY2022|/sites/dolgov/files/OWCP/dlhwc/dbadata/FY22countrydata.xlsx|COUNTRY,SUM(NLT),SUM(COP),SUM(LTO3),SUM(LTO4),SUM(DEA),SUM(OTH),SUM(TOTAL)
+Iraq|3073||19|2599|14||5707
+Afghanistan|3301||15|1529|||4851
+United States of America (the)|513||10|341|||869
+Kuwait|402|||439|||849
+Marshall Islands (the)|50|||438|||492
+Qatar|126|||279|||406
+Nation Pending|209|||122|||333
+Uganda|15|||143|||158
+Djibouti|127|||11|||139
+Spain|117||||||119
+Germany|82|||33|||116
+Syrian Arab Republic|35|||77|||113
+Thailand|12|||83|||95
+United Arab Emirates (the)|30|||60|||93
+United Kingdom of Great Britain and Northern Ireland (the)|55|||19|||77
+Antarctica|69||||||71
+Cuba|17|||45|||64
+India|20|||40|||60
+Somalia|28|||17|||51
+Guatemala||||45|||49
+Philippines (the)|23|||23|||48
+Japan|35|||11|||46
+Jordan|27|||16|||46
+Saudi Arabia|23|||15|||40
+Poland|27||||||34
+Israel|21|||11|||33
+Honduras|17|||14|||31
+Guam|13|||15|||30
+Korea (the Republic of)|25||||||29
+Turkey||||26|||29
+Kenya|19||||||27
+Niger (the)|16|||9|||27
+Bulgaria|24||||||26
+Mexico||||20|||25
+Bosnia and Herzegovina|20||||||21
+Russian Federation (the)||||15|||20
+Bahrain|12||||||18
+Italy|13||||||18
+Greece||||10|||17
+Nigeria|9||||||15
+Bahamas (the)|10||||||13
+Colombia|10||||||13
+Yemen|8||||||13
+Macedonia (the former Yugoslav Republic of)|8||||||11
+Greenland|8||||||10
+Puerto Rico|||||||10
+Belgium|||||||9
+Montenegro|||||||9
+Namibia|||||||8
+Peru|||||||8
+||||||Total|15571
+#SRC|FY2023|/sites/dolgov/files/OWCP/dlhwc/dbadata/FY23countrydata.xlsx|COUNTRY,SUM(NLT),SUM(COP),SUM(LTO3),SUM(LTO4),SUM(DEA),SUM(OTH),SUM(TOTAL)
+Afghanistan|4731||17|1764|8||6521
+Antarctica|26||||||29
+Bahamas (the)|9|||9|||18
+Bahrain|12||||||18
+Bosnia and Herzegovina|13||||||13
+Cuba|13|||15|||28
+Djibouti|70|||15|||87
+Germany|43|||24|||72
+Greece|||||||9
+Guam|15|||8|||25
+Honduras|12||||||19
+India|18||||||25
+Iraq|3718||34|1508|14||5276
+Israel|11||||||15
+Italy|||||||8
+Japan|19|||13|||33
+Jordan|34|||19|||54
+Kenya|13||||||19
+Korea (the Republic of)|21||||||25
+Kuwait|395|||149|||551
+Lebanon||||27|||33
+Macedonia (the former Yugoslav Republic of)|128||||||131
+Marshall Islands (the)|46|||37|||92
+Mexico||||12|||16
+Montenegro|8||||||13
+Morocco|||||||9
+Namibia|||||||9
+Nation Pending|876||9|254|||1144
+Niger (the)|30||||||38
+Philippines (the)|11||||||18
+Poland|72|||14|||87
+Puerto Rico|||||||13
+Qatar|75|||39|||117
+Romania|||||||11
+Saudi Arabia|13|||9|||23
+Somalia|35|||32|||67
+Syrian Arab Republic|31|||22|||57
+Thailand|9|||31|||41
+Uganda|8||||||11
+United Arab Emirates (the)|14|||8|||25
+United Kingdom of Great Britain and Northern Ireland (the)|8||||||14
+United States of America (the)|368|||123|||499
+TOTALS|10905|0|60|4132|22|0|15313
+#SRC|FY2024|/sites/dolgov/files/OWCP/dlhwc/dbadata/FY24countrydata_redacted.xlsx|COUNTRY,SUM(NLT),SUM(COP),SUM(LTO3),SUM(LTO4),SUM(DEA),SUM(OTH),SUM(TOTAL)
+Iraq|8482||39|3430|18||11973
+Afghanistan|7846|||1955|||9812
+Nation Pending|2210|||364|||2586
+Kuwait|332|||149|||497
+Macedonia (the former Yugoslav Republic of)|398||||||408
+United States of America (the)|218|||86|||313
+Qatar|108|||88|||203
+Poland|76|||58|||135
+Somalia|54|||40|||95
+Marshall Islands (the)|59|||26|||91
+Antarctica|57|||18|||75
+Germany|47|||22|||72
+Syrian Arab Republic|48|||22|||71
+Djibouti|53|||15|||70
+Jordan|41|||17|||59
+Thailand|24|||32|||57
+Lebanon|33||||||44
+Uganda|23|||18|||41
+Japan|25||||||38
+United Arab Emirates (the)|18||||||32
+Montenegro|21||||||30
+Guam|19||||||28
+Iran (Islamic Republic of)|16||||||25
+India|21||||||24
+Korea (the Republic of)|12|||12|||24
+Cuba|12||||||22
+Bahamas (the)|12||||||20
+Saudi Arabia|12||||||20
+Israel|12||||||18
+Niger (the)|||||||18
+Philippines (the)|||||||18
+Indonesia|||||||17
+Morocco|||||||17
+Ukraine|||||||17
+Honduras|||||||16
+Kenya|||||||14
+Bahrain|||||||13
+Puerto Rico|||||||13
+Mexico|||||||12
+Turkey|||||||12
+United Kingdom of Great Britain and Northern Ireland (the)|||||||12
+Totals|20289|0|39|6352|18|0|27062
+#SRC|CUM2001-2024|/sites/dolgov/files/OWCP/dlhwc/dbadata/country_data_cumulative2001-2024_redacted.xlsx|COUNTRY,SUM(NLT),SUM(COP),SUM(LTO3),SUM(LTO4),SUM(DEA),SUM(OTH),SUM(TOTAL)
+Iraq|56477|548|107|33978|1765|77|92952
+Afghanistan|45106|153|46|29645|1865|107|76922
+Nation Pending|14013|59|53|5925|101|52|20203
+Kuwait|7506|252|24|5533|133||13448
+United States of America (the)|3634||25|3628|44||7336
+Marshall Islands (the)|1347|||1198|25||2577
+Qatar|732|||1229|23||1999
+Puerto Rico|712|||977|||1703
+Germany|769|13||610|13||1410
+United Arab Emirates (the)|453|||425|18||906
+Djibouti|651|||239|||903
+Antarctica|645|||175|||821
+Macedonia (the former Yugoslav Republic of)|569|||158|||732
+Japan|357|||239|16||617
+Jordan|289|||227|40||563
+Colombia|293|||197|20||519
+Bosnia and Herzegovina|136|||359|13||517
+Uganda|108|||377|||491
+Korea (the Republic of)|292|||174|12||479
+Saudi Arabia|193|||241|28||464
+Syrian Arab Republic|157|||212|15||385
+Cuba|161|||194|||365
+Bahamas (the)|178|||180|||362
+Somalia|187|||151|||351
+Pakistan|134|||163|45||342
+Poland|237|||93|||334
+Bahrain|169|||128|||301
+United Kingdom of Great Britain and Northern Ireland (the)|153|||124|||288
+Israel|164|||118|||287
+Thailand|77|||185|||275
+Honduras|151|||107|||263
+Philippines (the)|107|||97|||212
+Spain|176|||33|||210
+India|104|||102|||208
+Turkey|103|||89|||199
+Niger (the)|112|||72|||195
+Oman|84|||93|||181
+Kenya|88|||83|||180
+Sudan (the)|83|||93|||178
+Italy|83|||80|||167
+Romania|135|||28|||165
+Haiti|88|||72|||164
+Guam|80|||66|||157
+Lebanon|91|||56|||151
+Liberia|68|||59|||136
+Russian Federation (the)|74|||56|||133
+China|57|||70|||130
+Guatemala|37|||88|||126
+Taiwan (Province of China)|73|||41|||114
+Ireland|71|||35|||106
+Mexico|42|||62|||105
+Egypt|39|||48|||94
+Indonesia|41|||45|||93
+South Sudan|26|||63|||91
+South Africa|41|||44|||90
+Peru|47|||38|||89
+Greece|35|||46|||83
+Bulgaria|57|||20|||80
+Ukraine|40|||37|||80
+Central African Republic (the)|40|||37|||78
+Chad|21|||42|||71
+Nigeria|34|||26|||71
+Kyrgyzstan|29|||37|||69
+Viet Nam|31|||28|||66
+El Salvador||||52|||62
+Greenland|38|||19|||59
+United States Minor Outlying Islands (the)|22|||34|||59
+Australia|23|||32|||58
+Uzbekistan|14|||34|||57
+Antigua and Barbuda|29|||25|||54
+Montenegro|30|||21|||52
+Belgium|17|||32|||51
+Panama|32|||17|||50
+Zambia|33|||14|||50
+Yemen|21|||25|||48
+Iran (Islamic Republic of)|27|||19|||47
+Ghana|20|||22|||45
+Korea (the Democratic Peoples Republic of)|31|||14|||45
+Mali||||31|||44
+Georgia|16|||21|||41
+Morocco|25|||14|||41
+Congo (the)|14|||24|||39
+Sierra Leone|16|||20|||37
+Croatia||||24|||36
+Guinea|14|||19|||33
+Cyprus|21||||||31
+Ethiopia|14|||16|||31
+Hungary||||23|||31
+Bangladesh|18||||||30
+Burkina Faso|18|||12|||30
+Tanzania, United Republic of||||14|||30
+Brazil||||18|||28
+Costa Rica|22||||||28
+Kazakhstan||||17|||28
+Namibia||||14|||28
+Senegal|13|||12|||28
+Singapore|13|||14|||28
+British Indian Ocean Territory (the)||||14|||24
+Canada||||16|||24
+Nepal||||12|||24
+Sri Lanka||||12|||23
+Tunisia||||12|||23
+Netherlands (the)|14||||||22
+Cambodia|||||||21
+Cameroon||||13|||20
+Libya|||||||19
+Malawi|||||||19
+Mongolia|||||||19
+Mozambique|||||||19
+Saint Helena, Ascension and Tristan da Cunha|13||||||19
+Ecuador|||||||18
+France|||||||18
+Lithuania|||||||17
+Tajikistan|||||||17
+Ã…land Islands|||||||17
+Austria|||||||16
+Bolivia (Plurinational State of)|||||||16
+Norway|||||||16
+Zimbabwe|||||||16
+Iceland|||||||15
+Palestine, State of|||||||15
+Albania|||||||14
+Nicaragua|||||||14
+Northern Mariana Islands (the)|||||||14
+Rwanda|||||||14
+Madagascar|||||||13
+New Zealand|||||||13
+Paraguay|||||||13
+Barbados|||||||12
+Botswana|||||||12
+Guyana|||||||12
+Uruguay|||||||12
+Totals|138855|1025|255|89807|4176|236|235346
