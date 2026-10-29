@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23746798.svg)](https://doi.org/10.5281/zenodo.23746798)
 
+Published by [Mercenomics](https://mercenomics.org), an independent data archive on the business of force for hire.
+
 Claims filed under the U.S. **Defense Base Act**, the law that covers injured or killed civilian contractors working on U.S. government contracts overseas. The data comes from the U.S. Department of Labor and is organized by country and fiscal year, **FY2009 to FY2024**, plus the Labor Department's cumulative table for **2001 to 2024**.
 
 ![Claims per year](figures/dba_claims_per_year.png)

@@ -3,8 +3,19 @@
   "upload_type": "dataset",
   "description": "<p>Claims filed under the U.S. Defense Base Act, which covers civilian contractors injured or killed while working on U.S. government contracts overseas, by country and U.S. fiscal year (FY2009-FY2024), with the U.S. Department of Labor's cumulative table for 2001-2024. Case types: no lost time, lost time of 3 days or less, lost time of 4 days or more, death, salary continuation and other. The numbers are new cases opened by the Labor Department, not official casualty counts; the country is where the injury happened; small numbers suppressed in the source are left blank. Includes the source tables, cleaning and checking code, and documentation.</p><p>Dataset: CC BY 4.0. Code: MIT. The source tables are U.S. government works.</p>",
   "creators": [
-    {"name": "Azom, Kazi Affnann", "orcid": "0009-0001-5998-7642"}
+    {
+      "name": "Azom, Kazi Affnann",
+      "orcid": "0009-0001-5998-7642",
+      "affiliation": "Mercenomics"
+    }
   ],
   "license": "cc-by-4.0",
-  "keywords": ["Defense Base Act", "defense contractors", "private military and security companies", "workplace injuries", "Iraq", "Afghanistan"]
+  "keywords": [
+    "Defense Base Act",
+    "defense contractors",
+    "private military and security companies",
+    "workplace injuries",
+    "Iraq",
+    "Afghanistan"
+  ]
 }
