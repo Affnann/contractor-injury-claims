@@ -77,7 +77,7 @@ Sources are listed in [`data/README.md`](data/README.md). Code: MIT (see [`LICEN
 
 ## Cite
 
-Azom, Kazi Affnann (2026). *contractor-injury-claims: U.S. Defense Base Act claims by country, FY2009-FY2024* (Version v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23746799
+Azom, Kazi Affnann (2026). *contractor-injury-claims: U.S. Defense Base Act claims by country, FY2009-FY2024* (Version v1.0.0) [Data set]. Mercenomics. https://doi.org/10.5281/zenodo.23746799
 
 - This version (v1.0.0): [10.5281/zenodo.23746799](https://doi.org/10.5281/zenodo.23746799)
 - All versions (always points to the latest): [10.5281/zenodo.23746798](https://doi.org/10.5281/zenodo.23746798)
